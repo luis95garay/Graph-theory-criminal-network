@@ -10,3 +10,5 @@ It shows analysis related with
 2. Centrality measures
 3. Clustering algorithms for graphs
 4. Hypothesis testing
+
+An it is uploaded a file with the conclusions of analysis
